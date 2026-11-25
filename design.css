@@ -10,3 +10,6 @@ dialog:not(#photo-viewer){background:#fffefa;border:1px solid #d5e1d4;border-rad
 @media(forced-colors:active){*{scrollbar-color:auto}button:focus-visible,a:focus-visible{outline:2px solid Highlight}}
 
 .privacy-note{max-width:42rem;margin:10px 0 0;color:#506d61;font-size:13px;line-height:1.7}
+
+#about .stage-back{color:#173d39;background:#fffef8;border-color:#cbd9d2}
+#about .stage-back:hover{color:#173d39;background:#e6f0e1;border-color:#8faf9c}
