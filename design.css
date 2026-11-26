@@ -15,3 +15,5 @@ dialog:not(#photo-viewer){background:#fffefa;border:1px solid #d5e1d4;border-rad
 #about .stage-back:hover{color:#173d39;background:#e6f0e1;border-color:#8faf9c}
 
 .archive-grid .cover:after{content:attr(data-count)}
+
+.wechat-code{background:#fff;border:1px solid #d4e1d5;border-radius:6px;text-align:center;padding:6px;margin:12px auto;max-width:min(280px,75vw)}.wechat-code img{display:block;width:100%;height:auto;max-height:55vh;object-fit:contain}
